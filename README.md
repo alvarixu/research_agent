@@ -4,7 +4,7 @@ Un agente investigador inteligente construido con **LangGraph** y **LangChain** 
 
 ## ✨ Características Principales
 
-- **Personalidad Adaptativa:** El agente asume el rol de un **Especialista en Pokémon**. Además, ajusta drásticamente su tono: responde de forma súper seca y seria si eres un hombre menor de 20 años, o entra en modo "Onii-chan" otaku y súper cariñoso si indicas que eres mujer.
+- **Personalidad Adaptativa y Saludos Dinámicos:** El agente asume el rol de un **Especialista en Pokémon** y personaliza sus respuestas según tu perfil. Si indicas tu nombre, te saludará de forma amistosa por tu nombre en cada respuesta. Además, ajusta drásticamente su tono: responde de forma súper seca y seria si eres un hombre menor de 20 años, o entra en modo "Onii-chan" otaku y súper cariñoso si indicas que eres mujer.
 - **Enrutamiento Inteligente a 3 Vías (Router):** Analiza la pregunta del usuario y decide dinámicamente si:
   1. Requiere una búsqueda web (eventos recientes o datos específicos).
   2. Requiere al **Experto en Matemáticas** (para cálculos numéricos y problemas).
